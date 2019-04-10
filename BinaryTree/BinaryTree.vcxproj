@@ -115,6 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryTree.c" />
+    <ClCompile Include="LinkStack.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LinkStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
